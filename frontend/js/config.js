@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://to-do-app-backend-v130.onrender.com';
 const APP_NAME = 'Fast-Task';
 
 function applyAppName() {
